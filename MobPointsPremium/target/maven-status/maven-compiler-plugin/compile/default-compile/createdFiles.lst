@@ -1,0 +1,6 @@
+it\mauro\mobpointspremium\events\MobKillListener.class
+it\mauro\mobpointspremium\commands\GetPoints.class
+it\mauro\mobpointspremium\MobPointsPremium.class
+it\mauro\mobpointspremium\database\PointsDatabase.class
+it\mauro\mobpointspremium\utils\CC.class
+it\mauro\mobpointspremium\commands\MobPointsStaff.class

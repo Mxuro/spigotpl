@@ -1,0 +1,9 @@
+name: MobPointsPremium
+version: '${project.version}'
+main: it.mauro.mobpointspremium.MobPointsPremium
+api-version: '1.19'
+commands:
+  points:
+    description: Get player points
+  mobpoints:
+    description: Staff commands

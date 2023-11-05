@@ -1,0 +1,15 @@
+messages:
+  errors:
+    no_permission: "&c(&4&l!&c) You don't have enough permission."
+    incorrect_command: "&c(&4&l!&c) Incorrect command! Usage: &e%usage%"
+    invalid_amount: "&c(&4&l!&c) Invalid amount provided. Please choose a whole number."
+    player_not_found: "&c(&4&l!&c) That player is offline / doesn't exist!"
+  points:
+    set_points: "&8[&3&lMobPoints&b&l&l+&8] &fSet &7%player%&f points to &7%amount%&f."
+    show_points: "&8[&3&lMobPoints&b&l&l+&8] &fYour Points: &7%points%"
+    show_points_other: "&8[&3&lMobPoints&b&l&l+&8] &7%player%&f's Points: &7%points%"
+    add_points: "&3&l+ &b%points%"
+    reset_points: "&8[&3&lMobPoints&b&l&l+&8] &fReset &7%player%&f points."
+  plugin:
+    reload_config: "&8[&3&lMobPoints&b&l&l+&8] &eConfiguration file reloaded!"
+    enderdragon_killed: "&b%killer% &3just defeated the &5&lEnderDragon&3!"
